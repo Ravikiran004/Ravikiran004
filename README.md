@@ -14,42 +14,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋 I'm <Ravikiran Khilari>
+<!-- Animated Background -->
+<div style="position: relative; overflow: hidden; width: 100%; height: 200px;">
+  <img src="link/to/animated/background.gif" style="position: absolute; width: 100%; height: auto; top: 0; left: 0;" alt="Animated Background">
+</div>
 
-Welcome to my GitHub profile! I'm a passionate data scientist and machine learning enthusiast. Here, you'll find a collection of my projects and contributions in the field of data science, machine learning, and more.
+# Hi there! 👋 I'm <Ravikira Khilari>
+
+Welcome to my GitHub profile! I'm a passionate data scientist and machine learning enthusiast, skilled in a variety of tools and technologies.
 
 ## Skills
 
-- **Python**
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  
+  <!-- Matplotlib -->
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
+  
+  <!-- Seaborn -->
+  <img src="https://img.shields.io/badge/Seaborn-3794FF?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+  
+  <!-- Data Science -->
+  <img src="https://img.shields.io/badge/Data%20Science-8CAAE6?style=for-the-badge" alt="Data Science">
+  
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-FDAB3D?style=for-the-badge" alt="Machine Learning">
+  
+  <!-- Rasa -->
+  <img src="https://img.shields.io/badge/Rasa-3D2E62?style=for-the-badge" alt="Rasa">
+  
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+  
+  <!-- Statistics -->
+  <img src="https://img.shields.io/badge/Statistics-1F425F?style=for-the-badge" alt="Statistics">
+</p>
 
-- **Pandas**
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+## About Me
 
-- **NumPy**
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-- **Matplotlib**
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-- **Seaborn**
-  ![Seaborn](https://img.shields.io/badge/Seaborn-3794FF?style=for-the-badge&logo=python&logoColor=white)
-
-- **Data Science**
-  ![Data Science](https://img.shields.io/badge/Data%20Science-8CAAE6?style=for-the-badge)
-
-- **Machine Learning**
-  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FDAB3D?style=for-the-badge)
-
-- **Rasa**
-  ![Rasa](https://img.shields.io/badge/Rasa-3D2E62?style=for-the-badge)
-
-- **SQL**
-  ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)
-
-- **Statistics**
-  ![Statistics](https://img.shields.io/badge/Statistics-1F425F?style=for-the-badge)
-
+I am a [Your Profession] with expertise in [Your Domain/Area]. I love exploring new technologies and finding innovative solutions to complex problems. My goal is to contribute to the world of data science and machine learning while continuously learning and growing in the process.
 
 Feel free to explore my repositories and connect with me on [LinkedIn](#)!
 
