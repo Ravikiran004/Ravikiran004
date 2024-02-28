@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Background Logo -->
-<p align="center">
-  <img src="https://your-image-url/computer-logo.png" width="150" height="150" alt="Computer Logo">
-</p>
+
 <!-- Background Logo -->
 <div align="center">
   <img src="https://your-image-url/background-logo.jpg" width="100%" alt="Background Logo">
