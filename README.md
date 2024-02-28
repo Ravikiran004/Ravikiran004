@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Animated Background -->
-<div style="position: relative; overflow: hidden; width: 100%; height: 200px;">
-  <img src="link/to/animated/background.gif" style="position: absolute; width: 100%; height: auto; top: 0; left: 0;" alt="Animated Background">
-</div>
+<!-- Background Logo -->
+<p align="center">
+  <img src="https://your-image-url/computer-logo.png" width="150" height="150" alt="Computer Logo">
+</p>
 
-# Hi there! 👋 I'm <Ravikira Khilari>
+# Hi there! 👋 I'm Ravikiran Khilari
 
 Welcome to my GitHub profile! I'm a passionate data scientist and machine learning enthusiast, skilled in a variety of tools and technologies.
 
@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist and machine learni
 
 ## About Me
 
-I am a [Your Profession] with expertise in [Your Domain/Area]. I love exploring new technologies and finding innovative solutions to complex problems. My goal is to contribute to the world of data science and machine learning while continuously learning and growing in the process.
+I am a data scientist and machine learning enthusiast with a strong background in [Your Domain/Area]. My passion lies in exploring innovative solutions and contributing to the world of data science.
 
 Feel free to explore my repositories and connect with me on [LinkedIn](#)!
 
