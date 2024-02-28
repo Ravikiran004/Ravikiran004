@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Background Logo -->
-<div align="center">
-  <img src="https://your-image-url/background-logo.jpg" width="100%" alt="Background Logo">
-</div>
 
 # Hi there! 👋 I'm Ravikiran Khilari
 
