@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋 I'm <Your Name>
+# Hi there! 👋 I'm <Ravikiran Khilari>
 
 Welcome to my GitHub profile! I'm a passionate data scientist and machine learning enthusiast. Here, you'll find a collection of my projects and contributions in the field of data science, machine learning, and more.
 
@@ -50,11 +50,6 @@ Welcome to my GitHub profile! I'm a passionate data scientist and machine learni
 - **Statistics**
   ![Statistics](https://img.shields.io/badge/Statistics-1F425F?style=for-the-badge)
 
-## Projects
-
-- [Project 1](#) - Brief description.
-- [Project 2](#) - Brief description.
-- [Project 3](#) - Brief description.
 
 Feel free to explore my repositories and connect with me on [LinkedIn](#)!
 
