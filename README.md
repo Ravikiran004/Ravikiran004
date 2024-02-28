@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://your-image-url/computer-logo.png" width="150" height="150" alt="Computer Logo">
 </p>
+<!-- Background Logo -->
+<div align="center">
+  <img src="https://your-image-url/background-logo.jpg" width="100%" alt="Background Logo">
+</div>
 
 # Hi there! 👋 I'm Ravikiran Khilari
 
@@ -59,7 +63,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist and machine learni
 
 ## About Me
 
-I am a data scientist and machine learning enthusiast with a strong background in [Your Domain/Area]. My passion lies in exploring innovative solutions and contributing to the world of data science.
+I am a data scientist and machine learning enthusiast with a strong background in various domains. My passion lies in exploring innovative solutions and contributing to the world of data science.
 
 Feel free to explore my repositories and connect with me on [LinkedIn](#)!
 
