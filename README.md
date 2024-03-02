@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there! 👋 I'm Ravikiran Khilari
+# Hi 👋 I'm Ravikiran Khilari
 
 Welcome to my GitHub profile! I'm a passionate data scientist and machine learning enthusiast, skilled in a variety of tools and technologies.
 
